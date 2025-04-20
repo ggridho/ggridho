@@ -1,16 +1,46 @@
-## Hi there 👋
+<html> 
+    <head>
+        <title>WEBSITE</title>
+    </head>
+	<body bgcolor="green">
+	<center>
+	<h1><u><i><font color="black">pengenalan perancangan website</font color></u></i></h1></center>
+	<h5>pengenalan perancangan website</font color></u></i></h1></center>
+	<p>
+    <center><h1>GAMBAR, TABEL DAN LINK</h1> 
+    <p> 
+    <img src="1.jpeg" height="100px" width="100px"> "> 
+	<img src="https://tse2.mm.bing.net/th?id=OIP.8fQ4xzWYxPrrEEFEkC_nxQHaEo&pid=Api&P=0&h=180" height="100px" width="100px"> "> 
+    </body> 
+	<p>
+	<table border="8">
+	    <tr>
+		    <th colspan "2">BIODATA</th>
+		<tr/>
+		<tr>
+		    <th>NAMA</th>
+			<th>NIM</th>
+			<th>JURUSAN</th>
+		<tr/>
+		<tr>
+			<th>Muhammad Miftahuddin</th>
+			<th>2459201044</th>
+			<th>Teknologi Informasi</th>
+		<tr/>	
+	</table>
+	<p>
+	<a href="perancangan-web.html">pindah ke halaman selanjutnya</a>
+	</body>
+</html>
 
-<!--
-**ggridho/ggridho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html> 
+    <head>
+        <title>WEBSITE</title>
+    </head>
+	<body bgcolor="white">
+	<center>
+	<h1><u><i><font color="black">pengenalan perancangan website</font color></u></i></h1></center>
+	<h5>pengenalan perancangan website</font color></u></i></h1></center>
+	<a href="belajarrr.html">pindah ke halaman sebelumnya</a>
+    <body/>
+<html>
